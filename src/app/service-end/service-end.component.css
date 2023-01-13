@@ -1,0 +1,67 @@
+.service-end{
+    background: #eee;
+}
+.title{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.title h6{
+    font-size: 13px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.title h4{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 600;
+}
+.form{
+    padding: 15px;
+    border: 1px solid;
+}
+
+ .address h6{color: #ccc !important;
+    font-size: 12px;
+    text-transform: uppercase;
+ }
+p{
+    font-size: 9px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.info{
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow:1px #ccc;
+    height: 240px;
+    margin-top: 60px;
+    
+}
+.face{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 10px;
+}
+.btn-danger{
+    background-color: #46ddb0;
+}
+
+.forme h1{
+    color: rgb(241, 73, 73);
+    font-weight: 700;
+}
+.forme p{
+    color: rgba(128, 128, 128, 0.644);
+    font-size: 18px;
+    font-weight: 500;
+}
+.forme input{
+    border: 2px solid gray;
+}
+.forme textarea{
+    border: 2px solid gray;  
+}

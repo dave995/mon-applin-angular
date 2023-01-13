@@ -1,0 +1,39 @@
+.landing-{
+    padding: 70px;
+  
+}
+.about-glob{
+    padding-left: 8%;
+    padding-bottom: 17%;
+}
+.about-text{
+    margin-top: 37%;
+}
+.tech-image img{
+    padding-right: 30px;
+    width: 100%;
+    height: 90%;
+}
+.about-us{
+    font-size: 13px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.text-consul h4{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 900;
+}
+.paragraphe p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.learn-btn{
+    background: #46ddb0;
+    border-color: #46ddb0;
+    color: #fff;
+    border-radius: 15px;
+}

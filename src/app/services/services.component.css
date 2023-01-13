@@ -1,0 +1,46 @@
+.services{
+    background: rgb(240, 235, 235);
+}
+.our-service{
+  text-align: center;
+  padding-top: 70px;
+}
+.our-service h6{
+    font-size: 13px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.our-service h3{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 900;
+}
+.titlework{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+}
+p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.rowlow{
+    padding-top: 60px;
+}
+.d-flex i{
+    padding-right: 12px;
+   
+}
+i{
+    color: #46ddb0;
+}
+a{
+    text-decoration: none;
+    color: #46ddb0; 
+    font-size: 1rem;
+    font-weight: 400;
+}

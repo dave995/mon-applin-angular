@@ -1,0 +1,34 @@
+.work-title h5{
+    font-size: 13px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.work-title h3{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 900;
+}
+.global-work{
+    padding-top: 50px;
+}
+.rowlow{
+    padding-top: 40px;
+    padding: 50px;
+}
+.titlework{
+    color: #000 !important;
+    
+}
+li{
+    list-style: none;
+}
+.check-p{
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.fa-check{
+    color:#46ddb0;
+    font-size: 19px;
+}
